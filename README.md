@@ -4,6 +4,7 @@ Program made during FEM course at AGH University of Science and Technology.
 
 ## Methods
 [Fourier's law](https://en.wikipedia.org/wiki/Thermal_conduction#Fourier.27s_law)
+
 [Gaussian elimination](https://en.wikipedia.org/wiki/Gaussian_elimination)
 
 ## Technology
