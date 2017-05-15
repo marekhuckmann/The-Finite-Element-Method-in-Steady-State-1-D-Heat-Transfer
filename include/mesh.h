@@ -13,7 +13,7 @@ class mesh
         double *PG;
         double *T;
 
-        void showUR();
+        void showME();
         void gaussJordan();
         void showResults();
 };
