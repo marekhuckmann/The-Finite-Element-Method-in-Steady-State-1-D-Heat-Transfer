@@ -48,6 +48,6 @@ int main() {
 	m1.gaussJordan();
 	m1.showResults();
 
-    system("PAUSE")
-    return 0;
+	system("PAUSE")
+	return 0;
 }
